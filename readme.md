@@ -47,7 +47,7 @@ pip install > requirements.txt
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CompanyDataScraper.git
+   https://github.com/SurajR2/NEPSE_Price_History_Scrapper.git
    ```
 
 2. **Navigate to the project directory:**
